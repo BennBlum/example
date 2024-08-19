@@ -1,3 +1,3 @@
-The example contains the following code snippets:
+API: This example demonstrates how to load a Vision Transformer (ViT) model in ONNX format for inference.
 
-api - This is a sample to demostrate how to load a vision transformer model (in onnx format) for inference.
+Training: This sample code and accompanying bash script illustrate how to download data from Azure Machine Learning Studio and set up a training session using NVIDIA Docker images.
