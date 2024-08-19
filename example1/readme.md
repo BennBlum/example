@@ -1,0 +1,1 @@
+This example demonstrates how a response can be constructed using metadata received from an NLP service. The AutoReplyService orchestrates communication between the system and the NLP service. Upon receiving a message from the NLP service, the response is forwarded to the reply generator, which utilizes a series of reply handlers to assemble the final response.
